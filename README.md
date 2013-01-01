@@ -6,3 +6,4 @@ A very simply graphics calculator.
 
 ## Screenshots
 ![](https://raw.github.com/rbarbera/calculator/master/screenshot.png)
+![](https://raw.github.com/rbarbera/calculator/master/graph.png)
